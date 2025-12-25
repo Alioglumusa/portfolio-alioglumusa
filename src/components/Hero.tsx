@@ -90,7 +90,7 @@ export function Hero() {
               )}
             </div>
             {/* Status */}
-            <div className="absolute -bottom-1 left-1/2 -translate-x-1/2">
+            {/* <div className="absolute -bottom-1 left-1/2 -translate-x-1/2">
               <Badge 
                 variant="secondary" 
                 className="px-2.5 py-1 bg-background border border-border shadow-md text-[10px]"
@@ -101,7 +101,7 @@ export function Hero() {
                 </span>
                 {locale === 'tr' ? 'Müsait' : 'Available'}
               </Badge>
-            </div>
+            </div> */}
           </div>
 
           {/* Name & Title */}
