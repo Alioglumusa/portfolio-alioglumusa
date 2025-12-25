@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "about": "Hakkımda",
+    "experience": "Deneyim",
+    "projects": "Projeler",
+    "skills": "Yetenekler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, Ben",
+    "name": "Musa Alioğlu",
+    "role": "Frontend Developer",
+    "description": "Yazılım sektöründe 3 yıllık profesyonel deneyime sahip bir Frontend Developer'ım. JavaScript, TypeScript, React ve Next.js gibi teknolojilerle modern, responsive ve kullanıcı dostu web uygulamaları geliştirme konusunda uzmanlaşmış bulunmaktayım.",
+    "viewProjects": "Projelerimi Gör",
+    "downloadCV": "CV İndir"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "description": "Yazılım sektöründe 3 yıllık profesyonel deneyime sahip bir Frontend Developer'ım. JavaScript, TypeScript, React ve Next.js gibi teknolojilerle modern, responsive ve kullanıcı dostu web uygulamaları geliştirme konusunda uzmanlaşmış bulunmaktayım. Kariyerim boyunca HTML, CSS, TailwindCSS, Bootstrap, MUI, shadcn/ui ve Laravel ile Inertia.js dahil olmak üzere çeşitli araç ve framework'lerle çalıştım.",
+    "focus": "Temiz, sürdürülebilir kod yazmaya ve kusursuz kullanıcı deneyimleri oluşturmaya odaklanıyorum. UI/UX trendlerini aktif olarak takip ediyor ve frontend teknolojilerindeki en son gelişmelerle güncel kalmak için becerilerimi sürekli geliştiriyorum.",
+    "education": "Eğitim",
+    "university": "Bozok Üniversitesi",
+    "degree": "Elektrik ve Elektronik Mühendisliği Lisans",
+    "year": "2016 - 2020"
+  },
+  "experience": {
+    "title": "Deneyim",
+    "parolapara": {
+      "company": "PAROLAPARA",
+      "role": "Frontend Developer",
+      "date": "10.2024 – 11.2025",
+      "description": "Birden fazla dahili ve müşteriye yönelik uygulamanın geliştirilmesine katkıda bulundum, temiz tasarım ve performansa odaklandım.",
+      "tasks": [
+        "Landing page'ler, web cüzdan, admin paneli ve dolandırıcılık tespit paneli geliştirdim ve bakımını yaptım.",
+        "React, TypeScript (TSX/JSX), TailwindCSS ve shadcn/ui kullanarak responsive UI'lar oluşturdum.",
+        "Modüller arasında gelişmiş state yönetimi için Redux ve Thunk kullandım.",
+        "Sorunsuz API entegrasyonu ve veri akışı için backend ekipleriyle işbirliği yaptım."
+      ]
+    },
+    "argedor": {
+      "company": "ARGEDOR Bilişim Teknolojileri",
+      "role": "Frontend Developer",
+      "date": "12.2023 – 09.2024",
+      "description": "Blockchain ve yapay zeka teknolojilerini içeren yenilikçi projelerde çalışarak kullanıcı arayüzleri ve komponent mimarisine katkıda bulundum.",
+      "tasks": [
+        "Türkiye İş Bankası Cohort'una seçilen ve ödül alan yapay zeka tabanlı bir platform olan Hippist projesinde kilit rol oynadım.",
+        "React, TSX, Bootstrap ve Redux kullanarak yeniden kullanılabilir komponentler ve karmaşık UI iş akışları oluşturdum.",
+        "Desteklenen tüm cihazlarda erişilebilirlik ve tarayıcılar arası uyumluluk sağladım."
+      ]
+    },
+    "llcsoft": {
+      "company": "LLC SOFT",
+      "role": "Frontend Developer",
+      "date": "01.2023 – 12.2023",
+      "description": "Depo yönetim sisteminin geliştirilmesine katılarak sezgisel ve verimli frontend ekranları sundum.",
+      "tasks": [
+        "Dashboard görünümleri, formlar ve gerçek zamanlı UI güncellemelerinin tasarım ve implementasyonuna odaklandım.",
+        "Backend ve QA ekipleriyle sprint tabanlı geliştirmede işbirliği yaptım."
+      ]
+    },
+    "shmarine": {
+      "company": "SH Marine Electric",
+      "role": "Elektrik ve Elektronik Mühendisi",
+      "date": "08.2021 – 07.2022",
+      "description": "Denizcilik uygulamaları için elektronik kontrol sistemlerinin tasarımı ve uygulaması üzerinde çalıştım.",
+      "tasks": [
+        "Prototipleme, devre tasarımı ve dokümantasyonda yardımcı oldum.",
+        "Dahili dijital araçlar geliştirmede inisiyatif alarak yazılım geliştirmeye geçişi başlattım."
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projeler",
+    "warehouse": {
+      "title": "Depo Yönetim Sistemi",
+      "company": "LLC Soft",
+      "description": "Envanter ve depo takibi için tasarlanmış dahili kurumsal araç. Lojistik görünürlüğünü artırmak için dashboard görünümleri, formlar ve dinamik tablolar implementasyonu."
+    },
+    "hippist": {
+      "title": "Hippist",
+      "company": "ARGEDOR",
+      "description": "Kişiselleştirilmiş seyahat ve yaşam tarzı önerileri sunan yapay zeka destekli platform. Türkiye İş Bankası Cohort'una kabul edildi ve inovasyon ödülü aldı."
+    },
+    "landing": {
+      "title": "Landing Page'ler",
+      "company": "ParolaPara",
+      "description": "Şirketin halka açık platformları için modern ve dönüşüm odaklı landing page'ler. Mobil uyumluluk, hızlı yükleme süreleri ve SEO dostu tasarım."
+    },
+    "wallet": {
+      "title": "Web Cüzdan",
+      "company": "ParolaPara",
+      "description": "Kullanıcı fonları ve işlemlerini yönetmek için güvenli web cüzdanı. Responsive cüzdan UI, işlem akışları ve gerçek zamanlı bakiye güncellemeleri."
+    },
+    "admin": {
+      "title": "Admin Paneli",
+      "company": "ParolaPara",
+      "description": "Platform yönetimi ve kullanıcı yönetimi için dahili dashboard. Kullanıcı/işlem yönetimi, rol tabanlı erişim ve analitik görünümler için admin arayüzleri."
+    },
+    "fraud": {
+      "title": "Dolandırıcılık Tespit Paneli",
+      "company": "ParolaPara",
+      "description": "Dolandırıcılık faaliyetlerini tespit etmek, araştırmak ve yönetmek için özel arayüz. Şüpheli işlemleri ve kullanıcı davranışlarını işaretlemek için interaktif dashboard'lar ve araştırma araçları."
+    }
+  },
+  "skills": {
+    "title": "Teknik Yetenekler",
+    "languages": "Programlama Dilleri",
+    "frameworks": "Framework & Kütüphaneler",
+    "styling": "Stil & UI Kütüphaneleri",
+    "tools": "Araçlar & Platformlar",
+    "practices": "Geliştirme Pratikleri"
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Yeni fırsatlar ve işbirlikleri için benimle iletişime geçmekten çekinmeyin.",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "social": "Sosyal Medya"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "builtWith": "Next.js, TailwindCSS ve shadcn/ui ile yapıldı."
+  },
+  "common": {
+    "lightMode": "Aydınlık Mod",
+    "darkMode": "Karanlık Mod",
+    "language": "Dil"
+  }
+}

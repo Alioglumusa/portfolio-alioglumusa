@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Musa Alioğlu",
+    "role": "Frontend Developer",
+    "description": "I am a Frontend Developer with 3 years of professional experience in the software industry. I specialize in building modern, responsive, and user-friendly web applications using technologies such as JavaScript, TypeScript, React, and Next.js.",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a Frontend Developer with 3 years of professional experience in the software industry. I specialize in building modern, responsive, and user-friendly web applications using technologies such as JavaScript, TypeScript, React, and Next.js. Throughout my career, I have worked with tools and frameworks including HTML, CSS, TailwindCSS, Bootstrap, MUI, shadcn/ui, and Inertia.js with Laravel.",
+    "focus": "I focus on writing clean, maintainable code and creating seamless user experiences. I actively follow UI/UX trends and continuously improve my skills to stay up-to-date with the latest developments in frontend technologies.",
+    "education": "Education",
+    "university": "Bozok University",
+    "degree": "Bachelor's Degree in Electrical and Electronics Engineering",
+    "year": "2016 - 2020"
+  },
+  "experience": {
+    "title": "Experience",
+    "parolapara": {
+      "company": "PAROLAPARA",
+      "role": "Frontend Developer",
+      "date": "10.2024 – 11.2025",
+      "description": "Contributed to the development of multiple internal and customer-facing applications, focusing on clean design and performance.",
+      "tasks": [
+        "Developed and maintained landing pages, web wallet, admin panel, and fraud detection panel.",
+        "Built responsive UIs using React, TypeScript (TSX/JSX), TailwindCSS, and shadcn/ui.",
+        "Utilized Redux and Thunk for advanced state management across modules.",
+        "Collaborated with backend teams to ensure seamless API integration and data flow."
+      ]
+    },
+    "argedor": {
+      "company": "ARGEDOR Information Technologies",
+      "role": "Frontend Developer",
+      "date": "12.2023 – 09.2024",
+      "description": "Worked on innovative projects involving blockchain and AI technologies, contributing to user-facing interfaces and component architecture.",
+      "tasks": [
+        "Played a key role in the Hippist project, an AI-based platform that was selected for the Türkiye İş Bankası Cohort and received an award.",
+        "Built reusable components and complex UI workflows using React, TSX, Bootstrap, and Redux.",
+        "Ensured accessibility and cross-browser compatibility across all supported devices."
+      ]
+    },
+    "llcsoft": {
+      "company": "LLC SOFT",
+      "role": "Frontend Developer",
+      "date": "01.2023 – 12.2023",
+      "description": "Participated in the development of a warehouse management system, delivering intuitive and efficient front-end screens.",
+      "tasks": [
+        "Focused on the design and implementation of dashboard views, forms, and real-time UI updates.",
+        "Collaborated in sprint-based development with backend and QA teams."
+      ]
+    },
+    "shmarine": {
+      "company": "SH Marine Electric",
+      "role": "Electrical and Electronics Engineer",
+      "date": "08.2021 – 07.2022",
+      "description": "Worked on design and implementation of electronic control systems for marine applications.",
+      "tasks": [
+        "Assisted in prototyping, circuit design, and documentation.",
+        "Took initiative in developing internal digital tools, sparking transition into software development."
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "warehouse": {
+      "title": "Warehouse Management System",
+      "company": "LLC Soft",
+      "description": "Internal enterprise tool designed for inventory and warehouse tracking. Implemented dashboard views, forms, and dynamic tables to improve logistics visibility."
+    },
+    "hippist": {
+      "title": "Hippist",
+      "company": "ARGEDOR",
+      "description": "An AI-powered platform that provides personalized travel and lifestyle suggestions. Project was accepted into the Türkiye İş Bankası Cohort and received recognition for innovation."
+    },
+    "landing": {
+      "title": "Landing Pages",
+      "company": "ParolaPara",
+      "description": "Created modern and conversion-focused landing pages for the company's public-facing platforms. Ensured mobile responsiveness, fast load times, and SEO-friendly design."
+    },
+    "wallet": {
+      "title": "Web Wallet",
+      "company": "ParolaPara",
+      "description": "A secure web wallet for managing user funds and transactions. Implemented responsive wallet UI, transaction flows, and real-time balance updates."
+    },
+    "admin": {
+      "title": "Admin Panel",
+      "company": "ParolaPara",
+      "description": "Internal dashboard for platform administration and user management. Built admin interfaces for user/transaction management, role-based access, and analytics views."
+    },
+    "fraud": {
+      "title": "Fraud Detection Panel",
+      "company": "ParolaPara",
+      "description": "A dedicated interface for detecting, investigating, and managing fraudulent activities. Developed interactive dashboards and investigation tools to flag suspicious transactions and user behavior."
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "languages": "Programming Languages",
+    "frameworks": "Frameworks & Libraries",
+    "styling": "Styling & UI Libraries",
+    "tools": "Tools & Platforms",
+    "practices": "Development Practices"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to reach out to me for new opportunities and collaborations.",
+    "email": "Email",
+    "phone": "Phone",
+    "social": "Social Media"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with Next.js, TailwindCSS and shadcn/ui."
+  },
+  "common": {
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "language": "Language"
+  }
+}
